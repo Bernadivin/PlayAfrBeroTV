@@ -1,5 +1,5 @@
 # PlayAfrBeroTV
-{"categorie":[{"names":"Movie","videos":[{"descriptions":"Bero TV est la premiere chaine numerique de la diasporas qui vous tienne compagnie de divers programmes tels que musiques, religion, gospel, infos, series etec....","source":["http://stream.zeno.fm/eyuiqh60p1qtv"],"subtitles":"By Channel","thumbs":"https://od.lk/s/M18yOTE5NjEyMDhf/phototwo.jpg","titles":"BERO TV"},
+{"categorie":[{"names":"Movie","videos":[{"descriptions":"Bero TV est la premiere chaine numerique de la diasporas qui vous tienne compagnie de divers programmes tels que musiques, religion, gospel, infos, series etec....","source":["http://stream.zeno.fm/eyuiqh60p1qtv"],"subtitles":"By Channel","thumbs":"https://od.lk/s/M18yOTE5NjEyMDhf/phototwo.jpg","titles":"BERO TV"}]}]}
 
 {"descriptions":"R.D.CONGO","source":["http://85.234:8080/Kinshasa/tracks-v1a1/mono.m3u89"],"subtitles":"By Channel","thumbs":"https://od.lk/s/M18yOTU0MzA4Mzlf/DRCongo.png","titles":"CONGO KINSHASA"},
 
